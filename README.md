@@ -19,7 +19,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 **Undergraduate Student** | Batch of 2029
+- 🎓 CSE Student @ NIT Sikkim | Batch of 2029
 - 💡 Passionate **Full-Stack Developer** building responsive, performant, and user-centric web applications.
 - 🛠️ Actively working with **React, Node.js, Express, PostgreSQL**, and modern UI component systems.
 - 🚀 Exploring advanced frontend animations with **Three.js** and **Framer Motion**, and integrating payment systems like **Stripe**.
